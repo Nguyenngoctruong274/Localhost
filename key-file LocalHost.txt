@@ -1,0 +1,1 @@
+ssh -i truong-keyfile -N -L 8085:127.0.0.1:8085 truong@weezi.biz -p 2204
